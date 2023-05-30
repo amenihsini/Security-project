@@ -7,7 +7,8 @@ This application is a simple vulnerability scanner that scans a given website an
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed (version 3.6 or above).
 3. Install the required libraries by running the following command: 
-   pip install -r requirements.txt
+   pip install Flask requests
+
 
 ## Usage
 
