@@ -1,6 +1,6 @@
 # Vscraper
 
-This application is a simple vulnerability checker that scans a given website and identifies potential vulnerabilities based on the server type. It utilizes the National Vulnerability Database (NVD) API to fetch vulnerability data.
+This application is a simple vulnerability scanner that scans a given website and identifies potential vulnerabilities based on the server type. It utilizes the National Vulnerability Database (NVD) API to fetch vulnerability data.
 
 ## Installation
 
